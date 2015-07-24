@@ -9,7 +9,7 @@
 $trainer_email_address = types_render_field("xingcheng", array("output"=>"html","id"=>"get_the_ID()"));
  
 //Output the trainer email
- 
+//abc 
 printf("Trainer Email Address displayed using Types API: %s",$trainer_email_address);
 ?>
   </div>
